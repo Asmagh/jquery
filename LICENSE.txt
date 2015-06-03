@@ -5,6 +5,7 @@ individuals. For exact contribution history, see the revision history
 available at https://github.com/jquery/jquery
 
 
+Hello...........
 
 
 The following license applies to all parts of this software except as
